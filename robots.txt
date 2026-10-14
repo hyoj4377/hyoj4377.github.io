@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hyoj4377.github.io/stepon-website/sitemap.xml
